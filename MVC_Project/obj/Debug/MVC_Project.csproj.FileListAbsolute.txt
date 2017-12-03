@@ -1,0 +1,105 @@
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\ApplicationInsights.config
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\roslyn\csc.exe
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\roslyn\vbc.exe
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\MVC_Project.dll.config
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\MVC_Project.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\MVC_Project.pdb
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Antlr3.Runtime.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Microsoft.AI.Web.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Newtonsoft.Json.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\System.Web.Helpers.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\System.Web.Mvc.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\System.Web.Optimization.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\System.Web.Razor.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\System.Web.WebPages.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\WebGrease.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Microsoft.AI.Web.xml
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\System.Web.Helpers.xml
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\System.Web.Mvc.xml
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\System.Web.Optimization.xml
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\System.Web.Razor.xml
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\System.Web.WebPages.xml
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Antlr3.Runtime.pdb
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\bin\Newtonsoft.Json.xml
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\obj\Debug\MVC_Project.dll
+C:\Users\Mert\Desktop\yeni\YMS 4501\MVC\4\MVC_Project\MVC_Project\obj\Debug\MVC_Project.pdb
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\ApplicationInsights.config
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\roslyn\csc.exe
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\roslyn\vbc.exe
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\MVC_Project.dll.config
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\MVC_Project.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\MVC_Project.pdb
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Antlr3.Runtime.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Microsoft.AI.Web.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Newtonsoft.Json.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\System.Web.Helpers.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\System.Web.Mvc.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\System.Web.Optimization.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\System.Web.Razor.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\System.Web.WebPages.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\WebGrease.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Microsoft.AI.Web.xml
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\System.Web.Helpers.xml
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\System.Web.Mvc.xml
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\System.Web.Optimization.xml
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\System.Web.Razor.xml
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\System.Web.WebPages.xml
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Antlr3.Runtime.pdb
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\bin\Newtonsoft.Json.xml
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\obj\Debug\MVC_Project.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\obj\Debug\MVC_Project.dll
+C:\Users\Mert\Desktop\MVC_GitOrnek\MVC_Project\obj\Debug\MVC_Project.pdb

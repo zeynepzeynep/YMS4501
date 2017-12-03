@@ -1,0 +1,94 @@
+﻿@model MVC_Project.Models.User
+@{
+    ViewBag.Title = "Create";
+}
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+
+@if (ViewBag.Result != null)
+{
+    <div id="alert" class="bs-example" data-example-id="dismissible-alert-css">
+        <div class="alert @ViewBag.Result[1] alert-dismissable" role="alert">
+            <strong>@ViewBag.Result[0]</strong>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            setTimeout(function () {
+                $("#alert").fadeOut(2000);
+            }, 500);
+        })
+    </script>
+
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>User</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class="text-danger"})
+
+        <div class="form-group">
+            @Html.LabelFor(x=>x.FirstName,htmlAttributes:new { @class="control-label col-lg-2"})
+            <div class="col-lg-10">
+                @Html.EditorFor(x=>x.FirstName,new { htmlAttributes=new { @class="form-control"} })
+                @Html.ValidationMessageFor(x=>x.FirstName,"",new { @class="text-danger"})
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.LastName, htmlAttributes: new { @class = "control-label col-lg-2" })
+            <div class="col-lg-10">
+                @Html.EditorFor(x => x.LastName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(x => x.LastName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.BirthYear, htmlAttributes: new { @class = "control-label col-lg-2" })
+            <div class="col-lg-10">
+                @Html.EditorFor(x => x.BirthYear, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(x => x.BirthYear, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.UserName, htmlAttributes: new { @class = "control-label col-lg-2" })
+            <div class="col-lg-10">
+                @Html.EditorFor(x => x.UserName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(x => x.UserName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.Password, htmlAttributes: new { @class = "control-label col-lg-2" })
+            <div class="col-lg-10">
+                @Html.EditorFor(x => x.Password, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(x => x.Password, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.TCKN, htmlAttributes: new { @class = "control-label col-lg-2" })
+            <div class="col-lg-10">
+                @Html.EditorFor(x => x.TCKN, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(x => x.TCKN, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-10 col-md-offset-2">
+                <input type="submit" value="EKLE" class="btn btn-success btn-block" />
+            </div>
+        </div>
+
+    </div>
+}
